@@ -18,6 +18,7 @@ It involves a two step process:
 The hidden layer can be thought of as a code that helps decode to obtain the original data. Hence, the
 'code' must capture important features from the input data.
 
+Source: Keras example. https://blog.keras.io/building-autoencoders-in-keras.html
 """
 
 # Load images
